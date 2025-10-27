@@ -1,8 +1,9 @@
 # Lab6Web
 # Nama  : Alya Febrianti
 # NIM   : 312410692
+# Kelas : TI.24.A1
 # Matkul : Pemograman Web 1
-
+# Praktikum 6: Web Framework
 # Input HTML, CSS, Dan JS
 ## HTML
 ```HTML
